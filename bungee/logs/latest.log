@@ -1,0 +1,33 @@
+[04:26:37] [main/INFO]: Using mbed TLS based native cipher.
+[04:26:37] [main/INFO]: Using zlib based native compressor.
+[04:26:37] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:dca72c2:511
+[04:26:38] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[04:26:38] [main/INFO]: Epoll is working, utilising it!
+[04:26:40] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[04:26:40] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[04:26:40] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[04:26:40] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[04:26:40] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[04:26:40] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[04:26:42] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:42] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:42] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:42] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:42] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:42] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:43] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[04:26:50] [main/WARN] [EaglercraftXBungee]: Profile load timed out
+[04:26:50] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.5 by lax1dude
+[04:26:51] [main/WARN]: Forced host server pvp is not defined
+[04:26:51] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:51] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:51] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:51] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:51] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:51] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:dca72c2:511 by WaterfallMC
+[04:26:52] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[04:26:52] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[04:27:00] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[04:27:00] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.5 by lax1dude
+[04:27:00] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[04:27:05] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
